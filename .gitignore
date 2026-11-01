@@ -1,0 +1,16 @@
+# User-supplied inputs and all outputs can contain private records.
+/data/
+/outputs/
+/models/
+/reports/
+/artifacts/
+
+# Local environments and caches.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example

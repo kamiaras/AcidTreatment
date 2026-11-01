@@ -1,0 +1,6 @@
+# Direct dependencies tested with Python 3.12.14 on Windows, 2026-11-01.
+numpy==2.5.4
+pandas==3.1.0
+openpyxl==3.1.5
+scikit-learn==1.9.1
+matplotlib==3.11.2
